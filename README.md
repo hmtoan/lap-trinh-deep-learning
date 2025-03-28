@@ -9,3 +9,4 @@
 -   3 - Huấn luyện mạng
     + [3.1 - Khởi tạo trọng số](https://colab.research.google.com/drive/1HAJaagCMI3_bCQWKqdK3n1dXkWMZnQpB?usp=sharing)
     + [3.2 - Đạo hàm và hàm mất mát](https://colab.research.google.com/drive/1YDnnxxZz0i8GBKmGdAzFlWCs7l60D7Ix?usp=sharing)
+    + [3.3 - Batch size](https://colab.research.google.com/drive/1G-oUcV5Zyjz6iyw3uxqiJh-5CMlU3b81?usp=sharing)
