@@ -7,3 +7,5 @@
     + [2.2 - Xây dựng mạng CNN](https://colab.research.google.com/drive/1Q_rlhg-LBPrOjtOhPizagzGTjx0JQ2wC?usp=sharing)
     + [2.3 - Sử dụng kiến trúc có sẵn](https://colab.research.google.com/drive/1rjouQsTR8fiWL2AWJr_R3RVDNWBBsD6R?usp=drive_link)
 -   3 - Huấn luyện mạng
+    + [3.1 - Khởi tạo trọng số](https://colab.research.google.com/drive/1HAJaagCMI3_bCQWKqdK3n1dXkWMZnQpB?usp=sharing)
+    + [3.2 - Đạo hàm và hàm mất mát](https://colab.research.google.com/drive/1YDnnxxZz0i8GBKmGdAzFlWCs7l60D7Ix?usp=sharing)
