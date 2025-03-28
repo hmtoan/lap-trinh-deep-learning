@@ -10,3 +10,4 @@
     + [3.1 - Khởi tạo trọng số](https://colab.research.google.com/drive/1HAJaagCMI3_bCQWKqdK3n1dXkWMZnQpB?usp=sharing)
     + [3.2 - Đạo hàm và hàm mất mát](https://colab.research.google.com/drive/1YDnnxxZz0i8GBKmGdAzFlWCs7l60D7Ix?usp=sharing)
     + [3.3 - Batch size](https://colab.research.google.com/drive/1G-oUcV5Zyjz6iyw3uxqiJh-5CMlU3b81?usp=sharing)
+    + [3.4 - Điều khiển tốc độ học](https://colab.research.google.com/drive/1897w8XuywXKB8uMRSgcIri8CSm-xVsiJ?usp=drive_link)
